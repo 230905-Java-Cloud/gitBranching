@@ -2,3 +2,6 @@ glazed
 boston creme
 krueller
 apple fritter
+jelly
+powdered donut
+
